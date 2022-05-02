@@ -6,6 +6,9 @@ I just got accepted into the master's program for Advanced Data Analytics at Uni
 
 Thank you for reading. Have a nice day.
 
+Yu can find me on LinkIn!
+https://www.linkedin.com/in/rodney-hawkins/
+
 <!---
 SavantLogics/SavantLogics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
