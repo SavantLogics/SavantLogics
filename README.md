@@ -6,7 +6,7 @@ I just got accepted into the master's program for Advanced Data Analytics at Uni
 
 Thank you for reading. Have a nice day.
 
-Yu can find me on LinkIn!
+You can find me on LinkedIn!
 https://www.linkedin.com/in/rodney-hawkins/
 
 <!---
