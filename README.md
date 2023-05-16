@@ -1,6 +1,6 @@
 Proper Preparation Prevents Poor Performance. 
 
-The side projects I am teaching myself are Python, PowerShell, and possibly R (later down the road). And how to apply these languages through Data Analysis and ultimately for cyber security.
+The side projects I am teaching myself are Python, PowerShell, and SQL. And how to apply these languages through Data Analysis and ultimately for data analysis.
 
 I just got accepted into the master's program for Advanced Data Analytics at University of North Texas. I'm so excited! Moving into the next chapter of my life and look forward to how this chapter will turn out.
 
